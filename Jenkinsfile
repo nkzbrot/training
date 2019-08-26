@@ -31,7 +31,7 @@
    }
 
       node {
-        stage('Preparation') {
+        stage('HelloWorld') {
           echo 'Hello World'
     }
 }
